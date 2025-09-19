@@ -1,0 +1,24 @@
+# Telegram API
+python-telegram-bot==20.3
+
+# Парсинг RSS
+feedparser==6.0.10
+
+# OpenAI API
+openai==1.2.3
+aiohttp==3.8.5
+requests==2.31.0
+
+# Google Sheets API (только для утреннего поста)
+gspread==5.7.2
+google-auth==2.23.3
+
+# Для корректной работы с датами/часами (если понадобится)
+pytz==2023.3
+
+# Для обработки HTML и экранирования
+html5lib==1.1
+
+# Для расчета сходства новостей (новое требование)
+scikit-learn==1.5.0
+telegram
