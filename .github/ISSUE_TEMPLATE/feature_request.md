@@ -1,0 +1,1 @@
+---\nname: Feature request\nabout: Suggest an idea\nlabels: enhancement\n---\n\n**Problem**\n\n**Proposed solution**\n\n**Alternatives**\n\n**Additional context**\n
