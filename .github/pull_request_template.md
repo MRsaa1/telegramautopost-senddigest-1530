@@ -1,0 +1,1 @@
+## Summary\n\n- [ ] Type: bugfix / feature / docs / chore\n- [ ] Tests added/updated\n- [ ] Secrets removed\n\n## Changes\n\n## Screenshots\n\n## Checklist\n- [ ] No secrets in diff\n- [ ] README updated if needed\n
